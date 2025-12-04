@@ -1,16 +1,15 @@
-## Hi there 👋
+## 🚧 WORK IN PROGRESS 🚧
 
-<!--
-**lexerotk/lexerotk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Github Banner](https://github.com/user-attachments/assets/1ead13c5-080e-4e7f-9560-09f281c3f084)
 
-Here are some ideas to get you started:
+# 👋 Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm an IT student who codes as hobby and I love tinkering with tech. 
+
+Proud **Arch Linux** user and enjoyer.
+
+## Here is some useful links 👇
+
+**https://lexerotk.me** (My personal website) <br>
+**https://last.fm/user/lexerotk** (My music taste) <br>
+**https://mynickname.com/lexerotk** (My nickname idk)

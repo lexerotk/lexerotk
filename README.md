@@ -10,6 +10,6 @@ Proud **Arch Linux** user and enjoyer.
 
 ## Here is some useful links 👇
 
-**https://lexerotk.me** (My personal website) <br>
+**https://lexerotk.github.ii** (My github page) <br>
 **https://last.fm/user/lexerotk** (My music taste) <br>
 **https://mynickname.com/lexerotk** (My nickname idk)
